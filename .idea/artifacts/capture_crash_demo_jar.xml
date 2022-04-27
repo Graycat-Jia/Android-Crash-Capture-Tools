@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="capture-crash-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/capture_crash_demo_jar</output-path>
+    <root id="archive" name="capture-crash-demo.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="capture-crash-demo" />
+    </root>
+  </artifact>
+</component>
